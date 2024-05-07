@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|c:\\users\\elvin\\source\\repos\\consoleapp36\\consoleapp36\\zoomagazin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|solutionrelative:consoleapp36\\zoomagazin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|c:\\users\\elvin\\source\\repos\\consoleapp36\\consoleapp36\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|solutionrelative:consoleapp36\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|c:\\users\\elvin\\source\\repos\\consoleapp36\\consoleapp36\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|solutionrelative:consoleapp36\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|c:\\users\\elvin\\source\\repos\\consoleapp36\\consoleapp36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|solutionrelative:consoleapp36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|c:\\users\\elvin\\source\\repos\\consoleapp36\\consoleapp36\\salerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|solutionrelative:consoleapp36\\salerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|c:\\users\\elvin\\source\\repos\\consoleapp36\\consoleapp36\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|solutionrelative:consoleapp36\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|c:\\users\\elvin\\source\\repos\\consoleapp36\\consoleapp36\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F153416A-4861-47FC-BA7F-149C155565CC}|ConsoleApp36\\ConsoleApp36.csproj|solutionrelative:consoleapp36\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\Customer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp36\\Customer.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\Customer.cs",
+              "RelativeToolTip": "ConsoleApp36\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:06:44.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp36\\Product.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\Product.cs",
+              "RelativeToolTip": "ConsoleApp36\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:06:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleRecord.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\SaleRecord.cs",
+              "RelativeDocumentMoniker": "ConsoleApp36\\SaleRecord.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\SaleRecord.cs",
+              "RelativeToolTip": "ConsoleApp36\\SaleRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:04:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\Sales.cs",
+              "RelativeDocumentMoniker": "ConsoleApp36\\Sales.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\Sales.cs",
+              "RelativeToolTip": "ConsoleApp36\\Sales.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:04:23.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp36\\User.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\User.cs",
+              "RelativeToolTip": "ConsoleApp36\\User.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:03:48.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZooMagazin.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\ZooMagazin.cs",
+              "RelativeDocumentMoniker": "ConsoleApp36\\ZooMagazin.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\ZooMagazin.cs",
+              "RelativeToolTip": "ConsoleApp36\\ZooMagazin.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:03:18.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp36\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp36\\ConsoleApp36\\Program.cs",
+              "RelativeToolTip": "ConsoleApp36\\Program.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAN0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:02:27.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
